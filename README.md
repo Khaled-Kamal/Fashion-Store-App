@@ -1,15 +1,18 @@
 # my_app
 
-A new Flutter project.
-
+Name Project : Fashion Store
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+he onboarding screens present key features of the app through a series of visually engaging slides, which can include images, text, and even interactive elements. By leveraging the intro_screen_onboarding_flutter package, developers can easily customize the flow, style
+
+and content of these screens to match the app's branding. After completing the onboarding, users are seamlessly redirected to the main pages using Flutter's Navigator class, ensuring a smooth transition. This enhances the overall user experience by making the app more intuitive from the start.
+
+Furthermore, the package supports various configurations, such as skipping the onboarding for returning users.
+
+- [Project in Linkedin](https://www.linkedin.com/posts/khaledkamal1_flutter-dart-dartabrpackages-activity-7237690591701045248-_0za?utm_source=share&utm_medium=member_desktop))
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
