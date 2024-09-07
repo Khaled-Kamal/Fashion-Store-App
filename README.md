@@ -1,4 +1,4 @@
-# my_app
+# Fashion-Store
 
 Name Project : Fashion Store
 ## Getting Started
