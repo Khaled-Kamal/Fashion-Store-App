@@ -5,7 +5,7 @@ Name Project : Fashion Store_
 
 
 
-he onboarding screens present key features of the app through a series of visually engaging slides, which can include images, text, and even interactive elements. By leveraging the intro_screen_onboarding_flutter package, developers can easily customize the flow, style
+he onboarding screens present key features of the app through a series of visually engaging slides, which can include images, text, and even interactive elements. By leveraging the intro_screen_onboarding_flutter package, developers can easily customize the flow, style.
 
 and content of these screens to match the app's branding. After completing the onboarding, users are seamlessly redirected to the main pages using Flutter's Navigator class, ensuring a smooth transition. This enhances the overall user experience by making the app more intuitive from the start.
 
