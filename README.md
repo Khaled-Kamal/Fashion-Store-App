@@ -1,6 +1,6 @@
 # Fashion-Store
 
-Name Project : Fashion Store_
+Name Project : Fashion Store
 ## Getting Started
 
 
